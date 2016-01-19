@@ -1,0 +1,16 @@
+{
+  "title": "Quran Toolbar",
+  "name": "qurantoolbar",
+  "version": "0.0.1",
+  "description": "Read and Search Quran. Insert Quran in input fields....القراءة والبحث في القرآن الكريم. إدراج القرآن مباشرة في حقول الإدخال...",
+  "main": "index.js",
+  "author": "Quran.Toolbar@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
